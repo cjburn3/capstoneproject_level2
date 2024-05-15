@@ -1,12 +1,17 @@
 # capstoneproject_level2
 
-Website: https://cjburn3.github.io/capstoneproject_level2/
+*Author/contact information.
+Carey Burnett: cjburnett6@gmail.com
 
-Creating a Stock app that will allow you to enter a stock ticker symbol and pull back information about the the stock.
+*Website: https://cjburn3.github.io/capstoneproject_level2/
 
-Example of the information that is provided:
--Quote:
--Current Price:
--Yesterday's Price:
--Shares Outstanding:
--Shares Authorized:
+*Creating a Stock app that will allow you to enter a stock ticker symbol and pull back information about the the stock.
+
+*Example of the information that is provided:
+-Ticker:
+-Country:
+-Currency:
+-Publisher:
+
+
+
