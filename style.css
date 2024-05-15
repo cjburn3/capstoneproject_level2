@@ -1,1 +1,66 @@
-
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1{
+    color:maroon;
+    text-align: center;
+    font-size:xx-large;
+    font-style: bold;
+    font-style:italic;
+    letter-spacing: 0.2em;
+    text-shadow: 1px 1px black;
+  }
+  label{
+    font-style: bold;
+    font-style:italic;
+    color:blue;
+  }
+  
+  h2{
+    letter-spacing: 0.2em;
+    font-style:italic;
+    text-shadow: 1px 1px black;
+   
+  }
+  #quote{
+    /* margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px; */
+    font-family: Georgia, Helvetica, sans-serif;
+  }
+  
+  #currentPrice{
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, Helvetica, sans-serif;
+  }
+  
+  #yesterdayPrice{
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, Helvetica, sans-serif;
+  }
+  
+  #sharesOutstanding{
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, Helvetica, sans-serif;
+  }
+  
+  #sharesAuthorized{
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, Helvetica, sans-serif;
+  }
+  
