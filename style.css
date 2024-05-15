@@ -24,43 +24,31 @@ html {
     text-shadow: 1px 1px black;
    
   }
-  #quote{
-    /* margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px; */
+  #ticker{
     font-family: Georgia, Helvetica, sans-serif;
   }
   
-  #currentPrice{
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+  #country{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
     font-family: Georgia, Helvetica, sans-serif;
   }
   
-  #yesterdayPrice{
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+  #currency{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
     font-family: Georgia, Helvetica, sans-serif;
   }
   
-  #sharesOutstanding{
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
-    font-family: Georgia, Helvetica, sans-serif;
-  }
-  
-  #sharesAuthorized{
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+  #publisher{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
     font-family: Georgia, Helvetica, sans-serif;
   }
   
