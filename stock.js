@@ -1,10 +1,9 @@
 function searchStock() {
-    const searchInput = document.getElementById(searchInput).value;
-    const url = 'https://api.finazon.io/latest/tickers/stocks?page_size=1000&ticker=${searchInput}';
-
+    const searchInput = document.getElementById('searchInput').value;
+    const url = `https://api.finazon.io/latest/tickers/stocks?page_size=1000&ticker=${searchInput}`;
     const apiKey = '2ec39591eddc4057bb7b4fd731e01d54ff'
       const headers = {
-        'Authorization': 'apikey' + apiKey
+        'Authorization': 'apikey ' + apiKey
     };
     fetch(url, {
         method: 'GET',
