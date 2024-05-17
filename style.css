@@ -3,7 +3,7 @@ html {
     width: 100%;
   }
   
-  h1{
+  h2{
     color:maroon;
     text-align: center;
     font-size:xx-large;
@@ -12,16 +12,19 @@ html {
     letter-spacing: 0.2em;
     text-shadow: 1px 1px black;
   }
-  /* label{
+  h4{
     font-style: bold;
     font-style:italic;
     color:blue;
   } */
   
-  h2{
+  h5{
     letter-spacing: 0.2em;
     font-style:italic;
-    text-shadow: 1px 1px black;
-   
+    margin-top: 15px;
+    padding-top: 15px;     
+    padding-right: 15px;
+    padding-bottom: 15px;
+    font-family: Georgia, Helvetica, sans-serif;
   }
   
