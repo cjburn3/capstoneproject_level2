@@ -31,17 +31,3 @@ Publisher:
 *[FINAZON](https://finazon.io/docs/api/latest#/tickers/stocks)
 
 *[Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-
-
-
-
-
-<<<<<<< HEAD
-Example of the information that is provided:
--ticker:
--country:
--currency:
--publisher:
-
-=======
->>>>>>> ce41f452facea9f28481e4d38eae3c7389ca044a
