@@ -12,43 +12,16 @@ html {
     letter-spacing: 0.2em;
     text-shadow: 1px 1px black;
   }
-  label{
+  /* label{
     font-style: bold;
     font-style:italic;
     color:blue;
-  }
+  } */
   
   h2{
     letter-spacing: 0.2em;
     font-style:italic;
     text-shadow: 1px 1px black;
    
-  }
-  #ticker{
-    font-family: Georgia, Helvetica, sans-serif;
-  }
-  
-  #country{
-    margin-top: 5px;
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    font-family: Georgia, Helvetica, sans-serif;
-  }
-  
-  #currency{
-    margin-top: 5px;
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    font-family: Georgia, Helvetica, sans-serif;
-  }
-  
-  #publisher{
-    margin-top: 5px;
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    font-family: Georgia, Helvetica, sans-serif;
   }
   
